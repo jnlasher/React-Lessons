@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/repository-name/static/css/main.d1b05096.chunk.css",
-    "main.js": "/repository-name/static/js/main.96d73e08.chunk.js",
-    "main.js.map": "/repository-name/static/js/main.96d73e08.chunk.js.map",
-    "runtime-main.js": "/repository-name/static/js/runtime-main.8cdf377e.js",
-    "runtime-main.js.map": "/repository-name/static/js/runtime-main.8cdf377e.js.map",
-    "static/js/2.20daa7e9.chunk.js": "/repository-name/static/js/2.20daa7e9.chunk.js",
-    "static/js/2.20daa7e9.chunk.js.map": "/repository-name/static/js/2.20daa7e9.chunk.js.map",
-    "index.html": "/repository-name/index.html",
-    "precache-manifest.7e69c85fdf85d865667b7bfe2086cdbf.js": "/repository-name/precache-manifest.7e69c85fdf85d865667b7bfe2086cdbf.js",
-    "service-worker.js": "/repository-name/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/repository-name/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.20daa7e9.chunk.js.LICENSE": "/repository-name/static/js/2.20daa7e9.chunk.js.LICENSE",
-    "static/media/logo.svg": "/repository-name/static/media/logo.5d5d9eef.svg"
+    "main.css": "/react-lessons/static/css/main.d1b05096.chunk.css",
+    "main.js": "/react-lessons/static/js/main.8401525d.chunk.js",
+    "main.js.map": "/react-lessons/static/js/main.8401525d.chunk.js.map",
+    "runtime-main.js": "/react-lessons/static/js/runtime-main.1262e8d0.js",
+    "runtime-main.js.map": "/react-lessons/static/js/runtime-main.1262e8d0.js.map",
+    "static/js/2.20daa7e9.chunk.js": "/react-lessons/static/js/2.20daa7e9.chunk.js",
+    "static/js/2.20daa7e9.chunk.js.map": "/react-lessons/static/js/2.20daa7e9.chunk.js.map",
+    "index.html": "/react-lessons/index.html",
+    "precache-manifest.3491fe7637cabe2e016765c75ad79884.js": "/react-lessons/precache-manifest.3491fe7637cabe2e016765c75ad79884.js",
+    "service-worker.js": "/react-lessons/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/react-lessons/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.20daa7e9.chunk.js.LICENSE": "/react-lessons/static/js/2.20daa7e9.chunk.js.LICENSE",
+    "static/media/logo.svg": "/react-lessons/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8cdf377e.js",
+    "static/js/runtime-main.1262e8d0.js",
     "static/js/2.20daa7e9.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.96d73e08.chunk.js"
+    "static/js/main.8401525d.chunk.js"
   ]
 }
