@@ -1,5 +1,24 @@
+.NavBar {
+  height: 100%;
+  width: 300px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  right: 0;
+  padding-top: 20px;
+  background-color: whitesmoke;
+}
+
+.NavBar a {
+  display: block;
+  padding: 12px;
+  text-decoration: none;
+  color: black;
+}
+
 .App {
   text-align: center;
+  margin-right: 300px;
 }
 
 .App-logo {
@@ -14,7 +33,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #282828;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
