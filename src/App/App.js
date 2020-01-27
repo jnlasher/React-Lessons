@@ -1,12 +1,14 @@
 import React from 'react';
 import logo from '../resources/logo.svg';
 import './App.css';
+import Animations from "../Animations/Animations";
+import StrictMode from "../StrictMode/StrictMode";
 
 
 function NavBar() {
   return (
     <div className="NavBar">
-      <a href="#" class="active">Top</a>
+      <a href="#">Top</a>
       {/* <a href="#">Animations</a>
       <a href="#">Suspense</a>
       <a href="#">Hooks</a>
