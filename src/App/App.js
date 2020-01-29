@@ -5,6 +5,8 @@ import Suspense from '../Suspense/Suspense';
 
 import logo from '../resources/logo.svg';
 import './App.css';
+import Animations from "../Animations/Animations";
+import StrictMode from "../StrictMode/StrictMode";
 
 
 function NavBar(props) {
