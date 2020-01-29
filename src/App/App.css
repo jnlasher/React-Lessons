@@ -16,9 +16,14 @@
   color: black;
 }
 
+.active {
+  background-color: cornflowerblue;
+}
+
 .App {
   text-align: center;
   margin-right: 300px;
+  background-color: #282828;
 }
 
 .App-logo {
@@ -33,7 +38,6 @@
 }
 
 .App-header {
-  background-color: #282828;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
